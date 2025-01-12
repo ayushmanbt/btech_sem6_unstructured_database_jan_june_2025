@@ -1,4 +1,4 @@
-# Class notes for 7/1/2025
+# Class notes for 8/1/2025
 
 - Key value pair database - redis
     - Uses key value pair like dictionaries and hash maps
