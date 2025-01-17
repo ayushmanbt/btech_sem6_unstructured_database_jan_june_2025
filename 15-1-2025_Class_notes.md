@@ -1,4 +1,4 @@
-# Class notes for 13/1/2025
+# Class notes for 15/1/2025
 
 Announcement: A small written exam on things we read on unit 1 on next week Tuesday i.e. 21/01/2024 
 
