@@ -1,0 +1,1 @@
+If possible someone in class remind me what we did in practical I could not add it to notes
